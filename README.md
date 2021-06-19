@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Ronny 👋
 
-<!--
-**ronnylrsd/ronnylrsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer and Student!
+- 🔭 I’m currently working on Scientific Research
+- 🌱 I’m currently learning Java and Phyton
+- 👯 I’m looking to collaborate with my collegues
+- ⚡ Fun fact: I love to write and play Valorant
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align= "left" alt="codeSTACKr.com" width="32px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
+[<img align= "left" alt="codeSTACKr.com" width="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align= "left" alt="codeSTACKr.com" width="32px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+
+[twitter]: https://twitter.com/ronnylrsd
+[linkedin]: https://www.linkedin.com/in/ronny-lima-ribeiro-da-silva/
+[instagram]: https://www.instagram.com/ronny.ribeiro1604/
