@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Student!
 - 🔭 I’m currently working on Scientific Research
-- 🌱 I’m currently learning Java and Phyton
+- 🌱 I’m currently learning HTML and CSS
 - 👯 I’m looking to collaborate with my collegues
 - ⚡ Fun fact: I love to write and play Valorant
 
