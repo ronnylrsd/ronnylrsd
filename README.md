@@ -84,17 +84,16 @@
       src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
     />
   </a>
-  <a href="https://github.com/ronnylrsd"></a>
+  <a href="https://github.com/ronnylrsd">
     <img
       height="30em"
       src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"
     />
   </a>
-    <a href="https://github.com/ronnylrsd"></a>
+    <a href="https://github.com/ronnylrsd">
     <img
       height="30em"
       src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
     />
   </a>
 </div>
-
