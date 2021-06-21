@@ -1,26 +1,77 @@
-### Hi there, I'm Ronny 👋
+<h1>Hi there, I'm Ronny! 👋</h1>
+<div>
+  <br />
+  <h2>I'm a Developer and Student!💻</h2>
+  <p>- 🔭 I’m currently working on Scientific Research</p>
+  <p>- 🌱 I’m currently learning HTML and CSS</p>
+  <p>- 👯 I’m looking to collaborate with my collegues</p>
+  <p>- ⚡ Fun fact: I love to write and play Valorant</p>
+</div>
 
-## I'm a Developer and Student!
-- 🔭 I’m currently working on Scientific Research
-- 🌱 I’m currently learning HTML and CSS
-- 👯 I’m looking to collaborate with my collegues
-- ⚡ Fun fact: I love to write and play Valorant
+##
 
-### Connect with me:
+<div style="display: inline_block">
+  <p>
+    <strong><h3>📱 Connect with me:</h3></strong>
+  </p>
+  <a href="mailto: ronnylrsd@gmail.com">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  /></a>
+  <a href="https://www.instagram.com/ronny.ribeiro1604/">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  /></a>
+  <a href="https://www.linkedin.com/in/ronny-lima-ribeiro-da-silva/">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  /></a>
+  <a href="https://twitter.com/ronnylrsd">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+  /></a>
+</div>
 
-[<img align= "left" alt="codeSTACKr.com" width="32px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
-[<img align= "left" alt="codeSTACKr.com" width="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align= "left" alt="codeSTACKr.com" width="32px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+##
 
-<br />
+<div style="display: inline_block">
+  <p>
+    <strong><h3>📚 Languages:</h3></strong>
+  </p>
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+  />
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  />
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+  />
+</div>
 
-### Languages and Tools:
-<img align= "left" alt="codeSTACKr.com" width="32px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
-<img align= "left" alt="codeSTACKr.com" width="32px" src="http://www.byteanalysis.com.br/assets/images/25a85d9e5057430d82273a3c75e73014.png" />
-<img align= "left" alt="codeSTACKr.com" width="32px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
+##
 
-<br />
-
-[twitter]: https://twitter.com/ronnylrsd
-[linkedin]: https://www.linkedin.com/in/ronny-lima-ribeiro-da-silva/
-[instagram]: https://www.instagram.com/ronny.ribeiro1604/
+<div style="display: inline_block">
+  <p>
+    <strong><h3>🛠️ Tools:</h3></strong>
+  </p>
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+  />
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"
+  />
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+  />
+</div>
