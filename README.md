@@ -106,4 +106,4 @@
   
 ##
   
-  ![Snake animation](https://github.com/ronnylrsd/ronnylrsd/blob/main/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/ronnylrsd/ronnylrsd/blob/output/github-contribution-grid-snake.svg)
