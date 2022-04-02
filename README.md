@@ -3,7 +3,7 @@
   <br />
   <h2>I'm a Developer and Student!💻</h2>
   <p>- 🔭 I’m currently working on Scientific Research</p>
-  <p>- 🌱 I’m currently learning HTML and CSS</p>
+  <p>- 🌱 I’m currently learning HTML, Javascript, Python, PHP and CSS</p>
   <p>- 👯 I’m looking to collaborate with my collegues</p>
   <p>- ⚡ Fun fact: I love to write and play Valorant</p>
 </div>
@@ -54,8 +54,18 @@
     height="30em"
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
   />
-  <img height="30rem" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img height="30rem" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+  <img 
+    height="30rem"
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+  />
+  <img
+    height="30rem"
+    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
+  />
+  <img
+    height="30rem"
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+  />
 </div>
 
 ##
@@ -76,4 +86,20 @@
     height="30em"
     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
   />
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+  />
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+  />
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronnylrsd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnylrsd&layout=compact&langs_count=7&theme=radical"/>
 </div>
