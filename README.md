@@ -3,7 +3,7 @@
   <br />
   <h2>I'm a Developer and Student!💻</h2>
   <p>- 🔭 I’m currently working on Scientific Research</p>
-  <p>- 🌱 I’m currently learning HTML, Javascript, Python, PHP and CSS</p>
+  <p>- 🌱 I’m currently learning HTML, CSS, Javascript, Python and Kotlin</p>
   <p>- 👯 I’m looking to collaborate with my collegues</p>
   <p>- ⚡ Fun fact: I love to write and play Valorant</p>
 </div>
