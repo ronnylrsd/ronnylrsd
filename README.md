@@ -66,6 +66,10 @@
     height="30rem"
     src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
   />
+  <img
+    height="30rem"
+    src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
+  />
 </div>
 
 ##
@@ -89,6 +93,10 @@
   <img
     height="30em"
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+  />
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"
   />
   <img
     height="30em"
