@@ -64,7 +64,7 @@
   />
   <img
     height="30rem"
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
   />
   <img
     height="30rem"
