@@ -70,6 +70,10 @@
     height="30rem"
     src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
   />
+  <img
+    height="30rem"
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+  />
 </div>
 
 ##
