@@ -3,7 +3,7 @@
   <br />
   <h2>I'm a Developer and Student!💻</h2>
   <p>- 🔭 I’m currently working on Scientific Research</p>
-  <p>- 🌱 I’m currently learning HTML, CSS, Javascript, Python and Kotlin</p>
+  <p>- 🌱 I’m currently learning Javascript, Python and SQL</p>
   <p>- 👯 I’m looking to collaborate with my collegues</p>
   <p>- ⚡ Fun fact: I love to write and play Valorant</p>
 </div>
@@ -44,12 +44,25 @@
   </p>
   <img
     height="30em"
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+  />
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+  />
+  <img
+    height="30em"
+    src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+  />
+  <img
+    height="30em"
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   />
   <img
     height="30em"
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
   />
+  <br>
   <img
     height="30em"
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
