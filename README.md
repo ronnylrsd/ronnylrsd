@@ -2,10 +2,10 @@
 <div>
   <br />
   <h2>I'm a Developer and Student!💻</h2>
-  <p>- 🔭 I’m currently working on Scientific Research</p>
-  <p>- 🌱 I’m currently learning Javascript, Python and SQL</p>
-  <p>- 👯 I’m looking to collaborate with my collegues</p>
-  <p>- ⚡ Fun fact: I love to write and play Valorant</p>
+  <p>- 🔭 I’m currently looking for a job</p>
+  <p>- 🌱 I’m currently learning React-Native</p>
+  <p>- 👯 I’m looking to collaborate with a company</p>
+  <p>- ⚡ Fun fact: I love to read and play League of Legends</p>
 </div>
 
 ##
