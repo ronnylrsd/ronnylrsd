@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ronny! 👋</h1>
 
 <div align="center">
-  <a href="https://www.instagram.com/ronny.ribeiro1604/" target="_blank">
+  <a href="https://github.com/ronnylrsd" target="_blank">
   <img src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif"/>
     </a>
   </div>
