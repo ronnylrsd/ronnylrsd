@@ -44,14 +44,20 @@
   <p>
     <strong><h3>📚 Languages:</h3></strong>
   </p>
+   <p>
+    Mobile 📱:
+  </p>
   <img
-    height="30em"
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+    height="30rem"
+    src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
   />
   <img
     height="30rem"
-    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
+    src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
   />
+  <p>
+    Front-end 🖥️:
+  </p>
   <img
     height="30em"
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -68,15 +74,18 @@
     height="30em"
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
   />
+  <p>
+    Back-end 🗂️:
+  </p>
   <img
-    height="30rem"
-    src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
+    height="30em"
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
   />
   <img
     height="30rem"
-    src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
   />
-</div>
+  </div>
 
 ##
 
