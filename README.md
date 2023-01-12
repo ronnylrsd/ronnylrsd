@@ -114,15 +114,6 @@
     src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
   />
 </div>
-
-##
-
-<div align="center">
-  <a href="https://github.com/ronnylrsd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronnylrsd&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <a href="https://github.com/ronnylrsd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnylrsd&layout=compact&theme=highcontrast"/>
-  </div>
   
 ##
   
