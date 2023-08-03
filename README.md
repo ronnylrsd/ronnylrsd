@@ -50,10 +50,12 @@
   <img
     height="30rem"
     src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
+    target="_blank"
   />
   <img
     height="30rem"
     src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    target="_blank"
   />
   <p>
     Front-end 🖥️:
@@ -61,22 +63,33 @@
   <img
     height="30em"
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    target="_blank"
   />
   <img
     height="30em"
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    target="_blank"
   />
   <img 
     height="30rem"
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+    target="_blank"
   />
+  <br/>
   <img
     height="30em"
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    target="_blank"
   />
   <img
     height="30em"
     src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"
+    target="_blank"
+  />
+    <img
+    height="30em"
+    src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+    target="_blank"
   />
   <p>
     Back-end 🗂️:
@@ -84,10 +97,12 @@
   <img
     height="30em"
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+    target="_blank"
   />
   <img
     height="30rem"
     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
+    target="_blank"
   />
   </div>
 
@@ -100,22 +115,27 @@
   <img
     height="30em"
     src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+    target="_blank"
   />
   <img
     height="30em"
     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+    target="_blank"
   />
   <img
     height="30em"
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+    target="_blank"
   />
   <img
     height="30em"
     src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+    target="_blank"
   />
   <img
     height="30em"
     src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+    target="_blank"
   />
 </div>
   
