@@ -42,7 +42,7 @@
 
 <div style="display: inline_block">
   <p>
-    <strong><h3>📚 Languages:</h3></strong>
+    <strong><h3>📚 Techs:</h3></strong>
   </p>
    <p>
     Mobile 📱:
