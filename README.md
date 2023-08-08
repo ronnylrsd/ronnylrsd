@@ -141,11 +141,11 @@
   
 ##
 
-<div style="display: inline_block">
+<div>
   <p>
     <strong><h3>📊 Statistics:</h3></strong>
   </p>
-  <div align="center"> 
+  <div align="center" style="display: inline_block"> 
     <img
       height=200
       src="https://github-readme-stats.vercel.app/api?username=ronnylrsd&show_icons=true&theme=dark"
