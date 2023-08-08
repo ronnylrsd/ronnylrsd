@@ -153,7 +153,7 @@
       />
     <img
       height="160em"
-      style="padding-bottom:2rem"
+      style="padding-bottom:2em"
       src="https://streak-stats.demolab.com/?user=ronnylrsd&theme=dark"
       target="_blank"
       />
