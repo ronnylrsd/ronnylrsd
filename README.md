@@ -141,23 +141,27 @@
   
 ##
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <p>
     <strong><h3>📊 Statistics:</h3></strong>
   </p>
-  <img
-    height=200
-    src="https://github-readme-stats.vercel.app/api?username=ronnylrsd&show_icons=true&theme=dark"
-    target="_blank"
-    />
-  <img
-    height=200 style="padding-bottom:2rem"
-    src="https://streak-stats.demolab.com/?user=ronnylrsd&theme=dark"
-    target="_blank"
-    />
-  <img
-    height=200
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnylrsd&layout=compact&theme=dark"
-    target="_blank"
-    />
+  <div align="center"> 
+    <img
+      height=200
+      src="https://github-readme-stats.vercel.app/api?username=ronnylrsd&show_icons=true&theme=dark"
+      target="_blank"
+      />
+    <img
+      height=200 style="padding-bottom:2rem"
+      src="https://streak-stats.demolab.com/?user=ronnylrsd&theme=dark"
+      target="_blank"
+      />
+    <img
+      height=200
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnylrsd&layout=compact&theme=dark"
+      target="_blank"
+      />
+  </div>
 </div>
+
+##
