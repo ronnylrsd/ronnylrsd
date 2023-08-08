@@ -147,17 +147,18 @@
   </p>
   <div align="center"> 
     <img
-      height=200
+      height="160em"
       src="https://github-readme-stats.vercel.app/api?username=ronnylrsd&show_icons=true&theme=dark"
       target="_blank"
       />
     <img
-      height=200 style="padding-bottom:2rem"
+      height="160em"
+      style="padding-bottom:2rem"
       src="https://streak-stats.demolab.com/?user=ronnylrsd&theme=dark"
       target="_blank"
       />
     <img
-      height=200
+      height="160em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnylrsd&layout=compact&theme=dark"
       target="_blank"
       />
