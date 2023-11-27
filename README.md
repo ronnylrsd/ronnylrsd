@@ -9,7 +9,7 @@
 <div>
   <br />
   <h2>I'm a Developer and Student!💻</h2>
-  <p>- 🔭 I’m currently working at <a href="https://cubecar.io/">Cube Car</a></p>
+  <p>- 🔭 I’m currently a student</p>
   <p>- 🌱 I’m currently learning React-Native</p>
   <p>- ✈️ I’m planning to live abroad</p>
   <p>- ⚡ Fun fact: I love to read and play League of Legends</p>
