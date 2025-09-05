@@ -39,7 +39,7 @@
     <strong><h3>📚 Techs:</h3></strong>
   </p>
   <p>
-    Teste 🧪:
+    Tests 🧪:
   </p>
   <img
     height="30rem"
