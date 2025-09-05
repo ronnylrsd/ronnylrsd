@@ -38,6 +38,24 @@
   <p>
     <strong><h3>📚 Techs:</h3></strong>
   </p>
+  <p>
+    Teste 🧪:
+  </p>
+  <img
+    height="30rem"
+    src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"
+    target="_blank"
+  />
+  <img
+    height="30rem"
+    src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"
+    target="_blank"
+  />
+  <img
+    height="30rem"
+    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+    target="_blank"
+  />
    <p>
     Mobile 📱:
   </p>
